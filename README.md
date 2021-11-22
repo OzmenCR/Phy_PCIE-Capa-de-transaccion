@@ -7,6 +7,9 @@ Protocolo PCIe
 Protocolo de comunicacion y envio de paquetes
 
 #Integrantes
+
 *Osvaldo Ariel Espinoza Ramos
+
 *Luis Benavides
+
 *Maria Jose Arce
