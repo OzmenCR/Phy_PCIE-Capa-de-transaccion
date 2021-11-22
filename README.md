@@ -6,10 +6,10 @@ Protocolo PCIe
 ## Proyecto 2 - 2019
 Protocolo de comunicacion y envio de paquetes
 
-#Integrantes
+# Integrantes
 
-*Osvaldo Ariel Espinoza Ramos
+* Osvaldo Ariel Espinoza Ramos
 
-*Luis Benavides
+* Luis Benavides
 
-*Maria Jose Arce
+* Maria Jose Arce
