@@ -1,4 +1,4 @@
-# Phy-PCIE Capa de Transaccion
+# Phy-PCIE 
 
 ## Proyecto 1 - 2019
 Protocolo PCIe
@@ -6,7 +6,10 @@ Protocolo PCIe
 ## Proyecto 2 - 2019
 Protocolo de comunicacion y envio de paquetes
 
-#Integrantes
-*Osvaldo Ariel Espinoza Ramos
-*Luis Benavides
-*Maria Jose Arce
+# Integrantes
+
+* Osvaldo Ariel Espinoza Ramos
+
+* Luis Benavides
+
+* Maria Jose Arce
