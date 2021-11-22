@@ -2,5 +2,5 @@ all: ss
 ss:
 	git pull
 	git add -A
-	git commit -m "Parte2"
-	git push origin master
+	git commit -m "PHY"
+	git push
